@@ -5,9 +5,9 @@ title: "Daily Post April 23, 2020"
 subtitle: ""
 summary: ""
 authors: ["Ben Bigelow"]
-tags: []
+tags: ["Flask","campaign-finance","books","daily"]
 categories: []
-date: 2020-03-24T20:15:22-05:00
+date: 2020-04-23T20:15:22-05:00
 lastmod: 2020-04-24T13:15:32-04:00
 featured: false
 draft: false
