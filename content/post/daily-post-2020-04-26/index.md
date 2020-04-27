@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Daily Post 2020 04 26"
+title: "Daily Post - April 26, 2020"
 subtitle: ""
 summary: ""
 authors: ["Ben Bigelow"]
