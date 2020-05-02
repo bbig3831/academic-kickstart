@@ -18,7 +18,7 @@ organizations:
   url: "https://www.hospiq.com"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Hospital operations
@@ -60,10 +60,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+# - Researchers
+# - Visitors
 ---
 
 I studied math at the University of California, Davis before going to HSPH to get my masters in global health. While in school, my thesis research focused on hospital operations in Ethiopia, but I also interned at the Massachusetts Health Policy Commission, where I worked on state policy research. After graduating, I came down to DC to join a population health tech company as a data analyst/product developer. Currently, I work at Hospital IQ, a software company that provides an operations management platform for hospitals. I manage our projects and relationships with hospital IT teams and integrate their data feeds into our platform.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
