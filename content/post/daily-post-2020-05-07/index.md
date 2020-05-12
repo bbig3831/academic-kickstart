@@ -1,11 +1,11 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Daily Post 2020 05 07"
+title: "Daily Post - May 7, 2020"
 subtitle: ""
 summary: ""
-authors: []
-tags: []
+authors: ["Ben Bigelow"]
+tags: ["Flask", "Python", "books", "daily"]
 categories: []
 date: 2020-05-08T18:04:07-04:00
 lastmod: 2020-05-08T18:04:07-04:00
